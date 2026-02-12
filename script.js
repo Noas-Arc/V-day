@@ -4,7 +4,7 @@ const gifStages = [
     "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3MxcmN2djJidDU0MGs0OWhlMjhpNXdseHA4M2E2N212ZGdmMTF0MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/weeMrAhcPR4dmDgW7F/giphy.gif",             // 2 surprised
     "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNmlobXp6a3RnY2Q2anY3cmxpcHZqdHE5OHh6N2IyZTZidW94YmVncSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/TrFYRvEKdPd2BzYJzY/giphy.gif",             // 3 zoomed
     "https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhsZmlneWZnbTNtM291eXh5Mmh2ZnRwNjl1ZmJrZGtmczhyeHB0eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/UGjORC6T1dpVOrrioj/giphy.gif",       // 4 angry
-    "hhttps://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc5bTh5bDdqbDk4NWRtOWRvc3cweHpwNTJtd29wb3J1YTh1Nms2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wCVPhL89CPDSMg3sC5/giphy.gif",             // 5 disappointed
+    "https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExZnc5bTh5bDdqbDk4NWRtOWRvc3cweHpwNTJtd29wb3J1YTh1Nms2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/wCVPhL89CPDSMg3sC5/giphy.gif",             // 5 disappointed
     "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjV6MmpzbTM1c2p3MXdvY2ZlemU4ZzkxcWVkM2Q2MjFwaTRpcW50diZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/bN7UcS2HlxODP4fnZh/giphy.gif",               // 6 yelling
     "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbGllNWhvMnpmOXd1YWY4azNtcDM3cTFrYmd0NHI2YXg1cjR1d2NyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/hWwJ6nAC6A6CcxjSom/giphy.gif"  // 7 crying
 ]
@@ -12,9 +12,9 @@ const gifStages = [
 const noMessages = [
     "No",
     "Are you positive? 🤔",
-    "Pookie please... 🥺",
-    "Look me straight in the eyes and say that again",
-    "I will be very sad... 😢",
+    "Can't believe you just clicked 'NO'!!!",
+    "HUH?! I'm watching you...",
+    "I'm gonna be really upset if you do it again!!",
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
