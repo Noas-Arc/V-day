@@ -16,7 +16,7 @@ const noMessages = [
     "I'm watching you 👀 Try again",
     "You better fix it 😤",
     "Last chance!",
-    "Don't do this to me...",
+    "Don't do this to me..",
     "Last chance! 😭",
     "I'm gonna cry..."
 ]
