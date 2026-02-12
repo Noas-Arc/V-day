@@ -11,11 +11,11 @@ const gifStages = [
 
 const noMessages = [
     "No",
-    "Are you positive? 🤔",
-    "Can't believe you just clicked 'NO'!!!",
-    "HUH?! I'm watching you...",
-    "I'm gonna be really upset if you do it again!!",
-    "Please??? 💔",
+    "Are you sure..? 🤔",
+    "HUH?!",
+    "I'm watching you 👀 Try again",
+    "I'm gonna cry soon 💔",
+    "Last chance!",
     "Don't do this to me...",
     "Last chance! 😭",
     "I'm gonna cry..."
