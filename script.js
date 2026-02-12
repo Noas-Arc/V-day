@@ -104,7 +104,7 @@ function handleNoClick() {
         noBtn.style.fontSize = `${Math.max(noSize * 0.85, 10)}px`
     }
 
-    // Swap cat GIF through stages
+    // Swap quokka GIF through stages
     const gifIndex = Math.min(noClickCount, gifStages.length - 1)
     swapGif(gifStages[gifIndex])
 
