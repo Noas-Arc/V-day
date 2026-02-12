@@ -18,7 +18,7 @@ const noMessages = [
     "Please??? 💔",
     "Don't do this to me...",
     "Last chance! 😭",
-    "I'm gonna cry"
+    "I'm gonna cry..."
 ]
 
 const yesTeasePokes = [
